@@ -1,4 +1,4 @@
-# Task Manager App - README
+# Task Manager App
 
 ## Overview
 
